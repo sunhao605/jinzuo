@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1974292964
+CRC: 183785890
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: afc7b648493b743ae5a9ea86b4c7b92d
+    Hash: 52a4478b5b41cc85d0a5aada0cf11964
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 266c54662d543ce4782d5da136e4be88
+    Hash: 02259ce93f579286c96887d6212b88d9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,8 +26,6 @@ ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
 - Class: 81
-  Script: {instanceID: 0}
-- Class: 83
   Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
@@ -105,5 +103,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentListenerMode
 Assets:
+- Assets/StarterAssets/ThirdPersonController/Prefabs/MainCamera.prefab
+- Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerFollowCamera.prefab
 - Assets/Prefab/Player/MainPlayer.prefab
 Dependencies: []
