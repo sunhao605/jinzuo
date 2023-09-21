@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 607569223
+CRC: 4069648924
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -31,5 +31,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Prefab/Scene/1FloorStatic.prefab
+- Assets/Prefab/Scene/1FloorStatic.prefab
 Dependencies: []

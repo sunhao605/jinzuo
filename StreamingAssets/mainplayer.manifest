@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2883404342
+CRC: 1974292964
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -105,5 +105,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentListenerMode
 Assets:
-- Assets/Resources/Prefab/Player/MainPlayer.prefab
+- Assets/Prefab/Player/MainPlayer.prefab
 Dependencies: []
