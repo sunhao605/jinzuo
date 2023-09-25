@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 770260863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65462877133d7aa1408dee1aba69cc75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9293130b4a13ba27d5487cd7ce24b26b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Mat/10Floor/Material #3923.mat
+- Assets/Mat/10Floor/09 - Default.mat
+- "Assets/Texture/Common/t_10\u8D44\u6E902_d.tga"
+- Assets/Mat/Common/Material #2527_1.mat
+- "Assets/Texture/Common/t_10\u697C_\u5730\u677F3_d.tga"
+- "Assets/Texture/Common/t_10\u8D44\u6E902.tga"
+- Assets/Mat/10Floor/08 - Default.mat
+- Assets/Mat/10Floor/Material #3308.mat
+- Assets/Art/URPShader/SubGraphs/PBR_RMO.shadersubgraph
+- "Assets/Texture/Common/t_\u9633\u53F0_d.tga"
+- Assets/Mat/Common/jh_yizi2_new_1.mat
+- "Assets/Texture/10Floor/t_10\u697C\u68DA\u98762_d.tga"
+- Assets/Material/SceneMaterial/tenfloor/jiaohu/sm_daintianniu.FBX
+- Assets/Mat/10Floor/Material #3499.mat
+- Assets/ThirdPlugins/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- "Assets/Texture/Common/t_1\u697C_\u5730\u78163_d.tga"
+- Assets/Material/SceneMaterial/tenfloor/jiaohu/10diantimen_L.FBX
+- Assets/ThirdPlugins/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+  - Fallback.asset
+- Assets/Art/URPShader/SubGraphs/ShineAni.shadersubgraph
+- Assets/Mat/10Floor/07 - Default.mat
+- "Assets/Texture/Common/T_\u5927\u7406\u77F3_rmo.tga"
+- Assets/Texture/10Floor/T_ljt2_1.tga
+- Assets/Mat/10Floor/Transperant.011.mat
+- "Assets/Texture/Common/t_\u767D\u58992_d.tga"
+- "Assets/Texture/10Floor/t_\u5706\u684C_d.tga"
+- "Assets/Texture/Common/t_\u73BB\u7483_d.tga"
+- Assets/Art/URPShader/SubGraphs/PBR_BaseColor.shadersubgraph
+- Assets/Texture/10Floor/T_men_rmo.tga
+- Assets/Mat/Common/m_10lou_ziyuan2.mat
+- Assets/Texture/10Floor/T_0037.jpg
+- Assets/Mat/10Floor/Transperant.012.mat
+- Assets/Mat/10Floor/Material #2620.mat
+- Assets/Mat/10Floor/Material #3326.mat
+- Assets/Mat/Common/jh_yizi1.mat
+- Assets/Mat/10Floor/Material #3925.mat
+- "Assets/Texture/Common/t_10\u8D44\u6E902_rmo.tga"
+- Assets/Mat/Common/jh_men.mat
+- "Assets/Texture/10Floor/t_10\u697C_\u5730\u6BEF2_d.tga"
+- Assets/Mat/10Floor/Material #2765.mat
+- "Assets/Texture/10Floor/t_10\u697C_\u5730\u6BEF1_d.tga"
+- Assets/Mat/Common/jh_yizi2_1.mat
+- "Assets/Texture/10Floor/\u996E\u6599.jpeg"
+- Assets/Art/URPShader/PBR_AO.shadergraph
+- Assets/Mat/10Floor/Material #3548.mat
+- "Assets/Texture/Common/t_\u9ED1\u5927\u7406\u77F3_d.tga"
+- Assets/Texture/10Floor/T_cucaormo.tga
+- Assets/Mat/10Floor/Material #2619.mat
+- Assets/Mat/10Floor/Material #2890.mat
+- "Assets/Texture/10Floor/t_10\u697C_\u5730\u677F2_d.tga"
+- Assets/Mat/10Floor/Material #3134.mat
+- "Assets/Texture/10Floor/t_10\u697C_\u5730\u677F1_d.tga"
+- Assets/Mat/10Floor/Material #2502.mat
+- Assets/Mat/Common/m_10louziyuan_1.mat
+- Assets/Mat/10Floor/Material #3159.mat
+- "Assets/Texture/10Floor/t_\u73BB\u7483_rmo.tga"
+- "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_rmo.tga"
+- Assets/Texture/10Floor/T_ljt2_2.tga
+- Assets/Art/URPShader/SubGraphs/PBR_Normal.shadersubgraph
+- Assets/Texture/Common/t_n.tga
+- "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_d.tga"
+- Assets/Mat/Common/m_cizhuan.mat
+- Assets/Material/SceneMaterial/tenfloor/jiaohu/10diantimen_R.FBX
+- Assets/Mat/10Floor/22 - Default.mat
+- "Assets/Texture/Common/t_1\u697C_\u95E8_d.tga"
+- Assets/Mat/10Floor/Transperant.007.mat
+- Assets/Material/SceneMaterial/tenfloor/10lou.FBX
+- "Assets/Texture/Common/t_10\u697C_\u74F7\u7816\u767D1_d.tga"
+- Assets/Texture/Common/T_af52f1239e62c6138d8fa02342b60d5409ab1852.jpg
+- Assets/ThirdPlugins/TextMesh Pro/Fonts/LiberationSans.ttf
+- "Assets/Texture/Common/wm_\u704C\u6728\u6D1B\u9633\u57CE\u5927\u704C09.tga"
+Dependencies: []

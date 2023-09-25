@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1150156418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a5df9982412e1b6ac69c40dba655821
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ed5c6a99c007b94ba283408e9c70a27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Scene/10FloorLate.prefab
+Dependencies:
+- /Users/sunhao/Downloads/MetaWebGL/meta-client-webgl/AssetBundles/WebGL/10floorduplicate
