@@ -8,7 +8,7 @@
     "Resource": "Gold1FloorAB",
     "MiniMap": "buluzheng",
     "Music": "bgm-town",
-    "ABRes":["onefloor","common"]
+    "ABRes":["common","onefloor"]
   },
   "2": {
     "ID": 2,
@@ -29,7 +29,7 @@
     "Resource": "Sliver_10Floor",
     "MiniMap": "luorisenl",
     "Music": "bgm-map02",
-    "ABRes":["tenfloor","common"]
+    "ABRes":["common","tenfloor"]
   },
   "4": {
     "ID": 4,
