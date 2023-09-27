@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3499056783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30d3f2f5c1eccfd89ffaaf75c2a106b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 238b6492da2e1de0cebdc9218519a3e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Texture/Common/t_10\u8D44\u6E902_d.tga"
+- Assets/Mat/Common/Material #2527_1.mat
+- "Assets/Texture/Common/t_10\u697C_\u5730\u677F3_d.tga"
+- "Assets/Texture/Common/t_10\u8D44\u6E902.tga"
+- Assets/Art/URPShader/SubGraphs/PBR_RMO.shadersubgraph
+- "Assets/Texture/Common/t_\u9633\u53F0_d.tga"
+- Assets/Mat/Common/m_zhaji.mat
+- Assets/Mat/Common/m_zhuozi.mat
+- Assets/Mat/Common/jh_yizi2_new_1.mat
+- Assets/Mat/Common/pm.mat
+- Assets/Mat/Common/m_10louboli2.mat
+- "Assets/Texture/Common/t_1\u697C_\u5730\u78163_d.tga"
+- Assets/Mat/Common/m_boli_1.mat
+- Assets/Art/URPShader/SubGraphs/PBR_BaseColor.shadersubgraph
+- Assets/Art/URPShader/SubGraphs/ShineAni.shadersubgraph
+- "Assets/Texture/Common/T_\u5927\u7406\u77F3_rmo.tga"
+- "Assets/Mat/Common/m_\u5B89\u5168\u53E3.mat"
+- "Assets/Texture/Common/t_\u767D\u58992_d.tga"
+- "Assets/Texture/Common/t_\u73BB\u7483_d.tga"
+- "Assets/Texture/Common/wm_\u704C\u6728\u5C71\u8336\u82B101.tga"
+- Assets/Texture/10Floor/T_men_rmo.tga
+- Assets/Mat/Common/m_10lou_ziyuan2.mat
+- Assets/Mat/Common/jh_yizi1.mat
+- "Assets/Texture/Common/t_10\u8D44\u6E902_rmo.tga"
+- Assets/Mat/Common/m_cao2_1.mat
+- Assets/Mat/Common/jh_men.mat
+- Assets/Mat/Common/jh_yizi2_1.mat
+- Assets/Art/URPShader/PBR_AO.shadergraph
+- "Assets/Texture/Common/t_\u9ED1\u5927\u7406\u77F3_d.tga"
+- Assets/Mat/Common/m_pengding_1.mat
+- Assets/Mat/Common/m_10zhuan1_1.mat
+- Assets/Material/SceneMaterial/tenfloor/jiaohu/m_kaihuiyi.FBX
+- Assets/Mat/Common/m_cao3_1.mat
+- Assets/Mat/Common/m_10louziyuan_1.mat
+- "Assets/Texture/10Floor/t_\u73BB\u7483_rmo.tga"
+- "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_rmo.tga"
+- Assets/Art/URPShader/SubGraphs/PBR_Normal.shadersubgraph
+- Assets/Texture/Common/t_n.tga
+- "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_d.tga"
+- Assets/Mat/Common/m_cizhuan.mat
+- "Assets/Texture/Common/t_\u684C\u5B502_d.tga"
+- "Assets/Texture/Common/t_1\u697C_\u95E8_d.tga"
+- Assets/Texture/Common/T_af52f1239e62c6138d8fa02342b60d5409ab1852.jpg
+- "Assets/Texture/Common/t_10\u697C_\u74F7\u7816\u767D1_d.tga"
+- "Assets/Texture/Common/wm_\u704C\u6728\u6D1B\u9633\u57CE\u5927\u704C09.tga"
+Dependencies: []
