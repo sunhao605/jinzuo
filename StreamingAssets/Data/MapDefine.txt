@@ -5,10 +5,10 @@
     "Type": "Normal",
     "SubType": "Normal",
     "PKMode": false,
-    "Resource": "Gold_1Floor",
+    "Resource": "Gold1FloorAB",
     "MiniMap": "buluzheng",
     "Music": "bgm-town",
-    "ABRes":["onefloor"]
+    "ABRes":["onefloor","common"]
   },
   "2": {
     "ID": 2,
@@ -29,7 +29,7 @@
     "Resource": "Sliver_10Floor",
     "MiniMap": "luorisenl",
     "Music": "bgm-map02",
-    "ABRes":["tenfloor"]
+    "ABRes":["tenfloor","common"]
   },
   "4": {
     "ID": 4,
