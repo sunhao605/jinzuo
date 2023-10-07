@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2184018506
+CRC: 2789732741
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea166d8535ff2b86cc60a271bb08ec37
+    Hash: ef3c2cee8c5eb2410e3b07b421dcae1f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7321cecff5c4e5b32d08abf19e4b50ee
@@ -78,4 +78,3 @@ Assets:
 - Assets/Prefab/Scene/10FloorScene.prefab
 Dependencies:
 - /Users/sunhao/Downloads/MetaWebGL/meta-client-webgl/AssetBundles/WebGL/common
-- /Users/sunhao/Downloads/MetaWebGL/meta-client-webgl/AssetBundles/WebGL/onefloor

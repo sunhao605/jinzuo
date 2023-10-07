@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3616607712
+CRC: 1518787704
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f7684018f297350f8e6d451b9a39820e
+    Hash: c772869229a66d859fe2d6476d929def
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6490ff08d5c96b900fae369d0cfd3f3a
@@ -45,13 +45,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Art/URPShader/SubGraphs/PBR_RMO.shadersubgraph
-- Assets/Art/URPShader/PBR_AO.shadergraph
-- Assets/Art/URPShader/SubGraphs/PBR_BaseColor.shadersubgraph
-- Assets/Art/URPShader/SubGraphs/ShineAni.shadersubgraph
-- Assets/Art/URPShader/SubGraphs/PBR_Normal.shadersubgraph
-- Assets/Art/URPShader/SG_Water_Lit.shadergraph
-- Assets/Art/URPShader/SubGraphs/Dissolve.shadersubgraph
 - Assets/Prefab/Scene/1FloorScene.prefab
 Dependencies:
 - /Users/sunhao/Downloads/MetaWebGL/meta-client-webgl/AssetBundles/WebGL/common
