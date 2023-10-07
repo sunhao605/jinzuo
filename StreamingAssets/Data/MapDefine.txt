@@ -1,0 +1,74 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "金座1楼",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Gold_1Floor",
+    "MiniMap": "buluzheng",
+    "Music": "bgm-town",
+    "ABRes":["common","onefloor"]
+  },
+  "2": {
+    "ID": 2,
+    "Name": "金座18楼",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Gold_18Floor",
+    "MiniMap": "luorisenl",
+    "Music": "bgm-map01"
+  },
+  "3": {
+    "ID": 3,
+    "Name": "银座10楼",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Sliver_10Floor",
+    "MiniMap": "luorisenl",
+    "Music": "bgm-map02",
+    "ABRes":["tenfloor"]
+  },
+  "4": {
+    "ID": 4,
+    "Name": "虚拟会议室",
+    "Type": "Story",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "MeetingRoom",
+    "MiniMap": "luoriyuhui",
+    "Music": "bgm-map02"
+  },
+  "5": {
+    "ID": 5,
+    "Name": "宛平广场",
+    "Type": "Story",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "WanPingSquare",
+    "MiniMap": "luoriyuhui",
+    "Music": "bgm-map02"
+  },
+  "6": {
+    "ID": 6,
+    "Name": "成都6楼",
+    "Type": "Story",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "CD_6Floor",
+    "MiniMap": "luoriyuhui",
+    "Music": "bgm-map02"
+  },
+ "7": {
+    "ID": 7,
+    "Name": "虚拟展示厅",
+    "Type": "Story",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "ShowRoom",
+    "MiniMap": "luoriyuhui",
+    "Music": "bgm-map02"
+  }
+}
