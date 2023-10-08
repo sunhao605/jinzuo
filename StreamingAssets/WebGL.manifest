@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1312359343
+CRC: 1316750161
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,9 +10,9 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: common
     Info_2:
+      Name: common
+      Dependencies: {}
+    Info_3:
       Name: tenfloor
       Dependencies:
         Dependency_0: common
-    Info_3:
-      Name: common
-      Dependencies: {}
