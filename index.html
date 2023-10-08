@@ -22,6 +22,9 @@
       </div>
     </div>
     <div id="unity-fullscreen-button" style="display: none;"></div>
+    <iframe id="inlineFrameExample" title="Inline Frame Example" 
+    style = " position : fixed; top : 0; left : 0; width : 100% ; height : 100vh; border : 0" 
+    src="http://172.30.197.42:5173/meta-web/"></iframe>
     <script>
       const hideFullScreenButton = "";
       const buildUrl = "Build";
@@ -87,6 +90,31 @@
         });
       };
       document.body.appendChild(script);
-    </script>
+      const iframeDom = document.getElementById('inlineFrameExample');
+      
+      var unityInstance = UnityLoader.Instantiate("gameContainer", "Build/WebAndUnity.json",{onProgress:UnityProgress});
+      function toggleMetaWebIframe(flag) {
+        //控制iframe显示隐藏的逻辑
+        
+        if (!iframeDom) return;
+            if (flag) {
+              iframeDom.style.display = '';
+            }
+            else {
+            iframeDom.style.display = 'none';
+            }
+      }
+      function postMessage(message){
+        iframeDom.contentWindow.postMessage(message,'*');
+      }
+      function receiveMessage(message){
+        console.log("收到消息：",message);
+        unityInstance.SendMessage("Canvas","Handler",message);
+      }
+      window.addEventListener('message', e => {
+         receiveMessage(e.data);
+      });
+
+      </script>
   </body>
 </html>
