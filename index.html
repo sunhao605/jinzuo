@@ -23,7 +23,7 @@
     </div>
     <div id="unity-fullscreen-button" style="display: none;"></div>
     <iframe id="inlineFrameExample" title="Inline Frame Example" 
-    style = " position : fixed; top : 0; left : 0; width : 100% ; height : 100vh; border : 0" 
+    style = " position : fixed; top : 0; left : 0; width : 80% ; height : 70vh; border : 0" 
     src="http://172.30.197.42:5173/meta-web/"></iframe>
     <script>
       const hideFullScreenButton = "";
@@ -70,7 +70,7 @@
 
       const script = document.createElement("script");
       script.src = loaderUrl;
-      var myUnityInstance;
+      var myUnityInstance = null;
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           spinner.style.display = "none";
@@ -78,6 +78,9 @@
           progressBarFull.style.width = `${100 * progress}%`;
         }).then((unityInstance) => {
           myUnityInstance = unityInstance;
+          window.addEventListener('message', e => {
+            receiveMessage(e.data);
+          });
           loadingCover.style.display = "none";
           if (canFullscreen) {
             if (!hideFullScreenButton) {
@@ -112,10 +115,6 @@
         console.log("收到消息：",message);
         myUnityInstance.SendMessage("Canvas","Handler",message);
       }
-      window.addEventListener('message', e => {
-         receiveMessage(e.data);
-      });
-
       </script>
   </body>
 </html>
