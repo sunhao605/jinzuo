@@ -70,12 +70,14 @@
 
       const script = document.createElement("script");
       script.src = loaderUrl;
+      var myUnityInstance;
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           spinner.style.display = "none";
           progressBarEmpty.style.display = "";
           progressBarFull.style.width = `${100 * progress}%`;
         }).then((unityInstance) => {
+          myUnityInstance = unityInstance;
           loadingCover.style.display = "none";
           if (canFullscreen) {
             if (!hideFullScreenButton) {
@@ -91,8 +93,7 @@
       };
       document.body.appendChild(script);
       const iframeDom = document.getElementById('inlineFrameExample');
-      
-      var unityInstance = UnityLoader.Instantiate("gameContainer", "Build/WebAndUnity.json",{onProgress:UnityProgress});
+    
       function toggleMetaWebIframe(flag) {
         //控制iframe显示隐藏的逻辑
         
@@ -109,7 +110,7 @@
       }
       function receiveMessage(message){
         console.log("收到消息：",message);
-        unityInstance.SendMessage("Canvas","Handler",message);
+        myUnityInstance.SendMessage("Canvas","Handler",message);
       }
       window.addEventListener('message', e => {
          receiveMessage(e.data);
