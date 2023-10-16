@@ -79,7 +79,7 @@
     "PKMode": false,
     "Resource": "SelectCharacter",
     "MiniMap": "luoriyuhui",
-    "Music": "bgm-map02"，
+    "Music": "bgm-map02",
     "ABRes":["previewcharacter"]
   }
 }
