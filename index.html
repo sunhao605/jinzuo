@@ -24,7 +24,7 @@
     <div id="unity-fullscreen-button" style="display: none;"></div>
     <iframe id="inlineFrameExample" title="Inline Frame Example" 
     style = " position : fixed; top : 0; left : 0; width : 80% ; height : 70vh; border : 0" 
-    src="http://172.30.197.42:5173/meta-web/"></iframe>
+    src="http://oa-server-dev.eastmoney.com/meta-web/"></iframe>
     <script>
       const hideFullScreenButton = "";
       const buildUrl = "Build";
@@ -95,8 +95,8 @@
         });
       };
       document.body.appendChild(script);
+
       const iframeDom = document.getElementById('inlineFrameExample');
-    
       function toggleMetaWebIframe(flag) {
         //控制iframe显示隐藏的逻辑
         
@@ -115,6 +115,7 @@
         console.log("收到消息：",message);
         myUnityInstance.SendMessage("Canvas","Handler",message);
       }
-      </script>
+    </script>
   </body>
 </html>
+

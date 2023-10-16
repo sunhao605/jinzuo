@@ -1,18 +1,18 @@
 ManifestFileVersion: 0
-CRC: 2147945999
+CRC: 3100033735
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: mainplayer
-      Dependencies: {}
-    Info_1:
-      Name: onefloor
-      Dependencies:
-        Dependency_0: common
-    Info_2:
       Name: common
       Dependencies: {}
-    Info_3:
+    Info_1:
       Name: tenfloor
       Dependencies:
         Dependency_0: common
+    Info_2:
+      Name: onefloor
+      Dependencies:
+        Dependency_0: common
+    Info_3:
+      Name: previewcharacter
+      Dependencies: {}

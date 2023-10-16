@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3469188736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60a174d930b41c39c1dbbee99f3d8e87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 73d0be83addf6d5fac47932adb657756
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 701b2838c330546b2a7546db23e9fb82, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b84a7b9366c9419f9cae40677a29a1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 282f8a08f889443a7bf1fe4246d9b0cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc802137327fb4133aad79c2fc5ff74a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Character/Man/Prefab/boy1.prefab
+Dependencies: []
