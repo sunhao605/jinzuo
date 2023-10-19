@@ -22,6 +22,9 @@
       </div>
     </div>
     <div id="unity-fullscreen-button" style="display: none;"></div>
+    <iframe id="inlineFrameExample" title="Inline Frame Example" 
+    style = " position : fixed; top : 0; left : 0; width : 80% ; height : 70vh; border : 0; display : none" 
+    src="http://oa-server-dev.eastmoney.com/meta-web/"></iframe>
     <script>
       const hideFullScreenButton = "";
       const buildUrl = "Build";
@@ -67,12 +70,17 @@
 
       const script = document.createElement("script");
       script.src = loaderUrl;
+      var myUnityInstance = null;
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           spinner.style.display = "none";
           progressBarEmpty.style.display = "";
           progressBarFull.style.width = `${100 * progress}%`;
         }).then((unityInstance) => {
+          myUnityInstance = unityInstance;
+          window.addEventListener('message', e => {
+            receiveMessage(e.data);
+          });
           loadingCover.style.display = "none";
           if (canFullscreen) {
             if (!hideFullScreenButton) {
@@ -87,6 +95,26 @@
         });
       };
       document.body.appendChild(script);
+      const iframeDom = document.getElementById('inlineFrameExample');
+    
+      function toggleMetaWebIframe(flag) {
+        //控制iframe显示隐藏的逻辑
+        
+        if (!iframeDom) return;
+            if (flag) {
+              iframeDom.style.display = '';
+            }
+            else {
+            iframeDom.style.display = 'none';
+            }
+      }
+      function postMessage(message){
+        iframeDom.contentWindow.postMessage(message,'*');
+      }
+      function receiveMessage(message){
+        console.log("收到消息：",message);
+        myUnityInstance.SendMessage("Canvas","Handler",message);
+      }
     </script>
   </body>
 </html>

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4140560779
+CRC: 1422980764
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -15,4 +15,9 @@ AssetBundleManifest:
         Dependency_0: common
     Info_3:
       Name: previewcharacter
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: common
+    Info_4:
+      Name: meetingroom
+      Dependencies:
+        Dependency_0: common

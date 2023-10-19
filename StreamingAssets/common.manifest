@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3395754307
+CRC: 3580257639
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 565145fdd8f7b050695630cd0161d82e
+    Hash: fb5ea48e5c8e1758a67ac25c07dc0f96
   TypeTreeHash:
     serializedVersion: 2
     Hash: 238b6492da2e1de0cebdc9218519a3e5
@@ -29,12 +29,14 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - "Assets/Texture/Common/t_10\u8D44\u6E902_d.tga"
 - Assets/Mat/Common/Material #2527_1.mat
+- Assets/Art/Character/Player/Halden/T_Halden_Harness_Classic_BaseColor.TGA
 - "Assets/Texture/Common/t_10\u697C_\u5730\u677F3_d.tga"
 - "Assets/Texture/Common/t_10\u8D44\u6E902.tga"
 - Assets/Art/URPShader/SubGraphs/PBR_RMO.shadersubgraph
 - "Assets/Texture/Common/t_\u9633\u53F0_d.tga"
 - Assets/Mat/Common/m_zhaji.mat
 - Assets/Mat/Common/m_zhuozi.mat
+- Assets/Art/Character/Player/Halden/T_Halden_Harness_Classic_RMO.TGA
 - Assets/Mat/Common/jh_yizi2_new_1.mat
 - Assets/Mat/Common/pm.mat
 - Assets/Mat/Common/m_10louboli2.mat
@@ -59,6 +61,7 @@ Assets:
 - "Assets/Texture/Common/t_\u9ED1\u5927\u7406\u77F3_d.tga"
 - Assets/Mat/Common/m_pengding_1.mat
 - Assets/Mat/Common/m_10zhuan1_1.mat
+- Assets/Art/Character/Player/Halden/T_Halden_Harness_Classic_N.TGA
 - Assets/Material/SceneMaterial/tenfloor/jiaohu/m_kaihuiyi.FBX
 - Assets/Mat/Common/m_cao3_1.mat
 - Assets/Mat/Common/m_10louziyuan_1.mat
@@ -69,6 +72,7 @@ Assets:
 - "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_d.tga"
 - Assets/Mat/Common/m_cizhuan.mat
 - "Assets/Texture/Common/t_\u684C\u5B502_d.tga"
+- Assets/Mat/Common/m_yangtai.mat
 - "Assets/Texture/Common/t_1\u697C_\u95E8_d.tga"
 - Assets/Art/URPShader/SubGraphs/Dissolve.shadersubgraph
 - Assets/Texture/Common/T_af52f1239e62c6138d8fa02342b60d5409ab1852.jpg

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2561010477
+CRC: 3348612781
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e393ca3ae5e7ff4450d0ba9c6e4a6dd9
+    Hash: e412a79e83e3c6c0bc140ece81eb1ca4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 73d0be83addf6d5fac47932adb657756
@@ -44,4 +44,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefab/Character/Man/Prefab/boy1.prefab
-Dependencies: []
+Dependencies:
+- /Users/sunhao/Downloads/MetaWebGL/meta-client-webgl/AssetBundles/WebGL/common
