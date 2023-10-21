@@ -5,10 +5,10 @@
     "Type": "Normal",
     "SubType": "Normal",
     "PKMode": false,
-    "Resource": "Gold_1Floor",
+    "Resource": "Gold_1Floor_Tmp",
     "MiniMap": "buluzheng",
     "Music": "bgm-town",
-    "ABRes":["previewcharacter","common","onefloor"]
+    "ABRes":["previewcharacter","onefloorscene"]
   },
   "2": {
     "ID": 2,

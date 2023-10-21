@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 4130969643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da2bc1a883b93794313909a963611fdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 244c8792c8e0c74f8fdb7b0067678c0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83b28ffa72519433c95a94058b9b947b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68ea1a21ea27f45b5aea0ec0028d752b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a90ce575d4dc9a41a4ab372fa90fd66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 282f8a08f889443a7bf1fe4246d9b0cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32d539d7448de46c589159acf1395e7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c648cf1a11e045e6bf03627c88afedb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7babf98ef92e1456f91ae6601e9931f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8bebfa6d4b1245849053d9962c0c426, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 220
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Gold_1Floor_Tmp.unity
+Dependencies:
+- /Users/sunhao/Downloads/MetaWebGL/meta-client-webgl/AssetBundles/WebGL/common
