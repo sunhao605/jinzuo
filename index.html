@@ -116,8 +116,8 @@
         myUnityInstance.SendMessage("Canvas","Handler",message);
       }
       function SetAgoraParam(channel,userId,token,agoraId){
-        // console.log("得到参数",chanel,userId,token,agoraId);
-        chatingWindowDom.src = "https://dd-rtc-dev.eastmoney.com/chat?channel="+encodeURIComponent(channel)+"&userId="+encodeURIComponent(userId)+"&token="+encodeURIComponent(token)+"&agoraId="+encodeURIComponent(agoraId);
+        console.log("得到参数",chanel,userId,token,agoraId);
+        chatingWindowDom.src = "https://dd-rtc-dev.eastmoney.com/chat?channel="+channel+"&userId="+userId+"&token="+token+"&agoraId="+agoraId;
         toggleMetaWebIframe(true);
       }
     </script>
