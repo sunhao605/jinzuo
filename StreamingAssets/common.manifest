@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 337940607
+CRC: 3608241932
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fb5ea48e5c8e1758a67ac25c07dc0f96
+    Hash: d6147015587a4718b99c7ea75ca84985
   TypeTreeHash:
     serializedVersion: 2
     Hash: 238b6492da2e1de0cebdc9218519a3e5
@@ -28,54 +28,86 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - "Assets/Texture/Common/t_10\u8D44\u6E902_d.tga"
+- "Assets/Texture/Common/t_10\u697C_\u74F7\u7816\u767D1_d.tga"
+- Assets/Mat/Common/m_yangtai.mat
+- Assets/Material/SceneMesh/MeetingRoom/jiaohu/yizi4.FBX
 - Assets/Mat/Common/Material #2527_1.mat
+- Assets/Material/SceneMesh/onefloor/jiaohu/sm_anniu_xia.FBX
 - Assets/Art/Character/Player/Halden/T_Halden_Harness_Classic_BaseColor.TGA
-- "Assets/Texture/Common/t_10\u697C_\u5730\u677F3_d.tga"
 - "Assets/Texture/Common/t_10\u8D44\u6E902.tga"
+- "Assets/Texture/Common/t_10\u697C_\u5730\u677F3_d.tga"
+- "Assets/Texture/Common/wm_\u704C\u6728\u7F8E\u4EBA\u8549.tga"
 - Assets/Art/URPShader/SubGraphs/PBR_RMO.shadersubgraph
+- Assets/Texture/Common/t_dianti.tga
+- "Assets/Texture/Common/t_10\u697C_\u5730\u6BEF3_d.psd"
 - "Assets/Texture/Common/t_\u9633\u53F0_d.tga"
 - Assets/Mat/Common/m_zhaji.mat
+- Assets/Texture/Common/t_mumen.psd
 - Assets/Mat/Common/m_zhuozi.mat
 - Assets/Art/Character/Player/Halden/T_Halden_Harness_Classic_RMO.TGA
 - Assets/Mat/Common/jh_yizi2_new_1.mat
+- "Assets/Texture/Common/t_10\u697C\u68DA\u98762_d.tga"
 - Assets/Mat/Common/pm.mat
+- Assets/Material/SceneMesh/onefloor/jiaohu/sm_anniu_shang.FBX
 - Assets/Mat/Common/m_10louboli2.mat
+- Assets/Mat/Common/m_mutou_1.mat
 - "Assets/Texture/Common/t_1\u697C_\u5730\u78163_d.tga"
 - Assets/Mat/Common/m_boli_1.mat
 - Assets/Art/URPShader/SubGraphs/PBR_BaseColor.shadersubgraph
 - Assets/Art/URPShader/SubGraphs/ShineAni.shadersubgraph
+- "Assets/Texture/Common/t_1\u697C_\u5899_d.tga"
 - "Assets/Texture/Common/T_\u5927\u7406\u77F3_rmo.tga"
-- "Assets/Mat/Common/m_\u5B89\u5168\u53E3.mat"
+- Assets/Texture/Common/T_lj0009.jpg
 - "Assets/Texture/Common/t_\u767D\u58992_d.tga"
+- "Assets/Mat/Common/m_\u5B89\u5168\u53E3.mat"
 - Assets/Art/URPShader/SG_Water_Lit.shadergraph
 - "Assets/Texture/Common/t_\u73BB\u7483_d.tga"
 - "Assets/Texture/Common/wm_\u704C\u6728\u5C71\u8336\u82B101.tga"
-- Assets/Texture/10Floor/T_men_rmo.tga
+- Assets/Texture/Common/T_lj0004.jpg
+- Assets/Texture/Common/T_0037.jpg
+- Assets/Texture/Common/T_men_rmo.tga
 - Assets/Mat/Common/m_10lou_ziyuan2.mat
+- Assets/Mat/Common/jh_diantiziyuan.mat
+- Assets/Texture/Common/t_dianti_rmo.tga
 - Assets/Mat/Common/jh_yizi1.mat
+- Assets/Mat/Common/m_dizhuan3.mat
+- "Assets/Texture/18Floor/t_\u73BB\u7483_d.tga"
+- Assets/Material/SceneMesh/MeetingRoom/dahuiyishi.FBX
 - "Assets/Texture/Common/t_10\u8D44\u6E902_rmo.tga"
 - Assets/Mat/Common/m_cao2_1.mat
+- Assets/Mat/Common/M_ljt.mat
 - Assets/Mat/Common/jh_men.mat
+- Assets/Mat/Common/m_cao7.mat
 - Assets/Mat/Common/jh_yizi2_1.mat
+- "Assets/Texture/Common/\u996E\u6599.jpeg"
+- Assets/Material/SceneMesh/MeetingRoom/jiaohu/mumen1803r.FBX
 - Assets/Art/URPShader/PBR_AO.shadergraph
 - "Assets/Texture/Common/t_\u9ED1\u5927\u7406\u77F3_d.tga"
 - Assets/Mat/Common/m_pengding_1.mat
 - Assets/Mat/Common/m_10zhuan1_1.mat
+- Assets/Mat/Common/M_ljt2.mat
 - Assets/Art/Character/Player/Halden/T_Halden_Harness_Classic_N.TGA
-- Assets/Material/SceneMaterial/tenfloor/jiaohu/m_kaihuiyi.FBX
+- Assets/Material/SceneMesh/tenfloor/jiaohu/m_kaihuiyi.FBX
+- "Assets/Texture/Common/t_\u684C\u5B50_d.tga"
 - Assets/Mat/Common/m_cao3_1.mat
+- "Assets/Texture/Common/T_\u5927\u7406\u77F3+\u91D1\u5C5E_rmo.tga"
 - Assets/Mat/Common/m_10louziyuan_1.mat
-- "Assets/Texture/10Floor/t_\u73BB\u7483_rmo.tga"
+- "Assets/Texture/Common/t_\u73BB\u7483_rmo.tga"
 - "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_rmo.tga"
 - Assets/Art/URPShader/SubGraphs/PBR_Normal.shadersubgraph
+- Assets/Mat/MeetingRoom/m_zhuozi 1.mat
 - Assets/Texture/Common/t_n.tga
-- "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_d.tga"
+- Assets/Material/SceneMesh/onefloor/jiaohu/XSP/SM_xsp_5.FBX
+- Assets/Art/URPShader/SubGraphs/Dissolve.shadersubgraph
+- "Assets/Texture/Common/wm_\u704C\u6728\u6D1B\u9633\u57CE\u5927\u704C07.tga"
 - Assets/Mat/Common/m_cizhuan.mat
 - "Assets/Texture/Common/t_\u684C\u5B502_d.tga"
-- Assets/Mat/Common/m_yangtai.mat
+- Assets/Mat/MeetingRoom/18jinshu.mat
 - "Assets/Texture/Common/t_1\u697C_\u95E8_d.tga"
-- Assets/Art/URPShader/SubGraphs/Dissolve.shadersubgraph
+- Assets/Mat/Common/m_cao5.mat
+- "Assets/Texture/Common/t_10\u697C_\u8D44\u6E90_d.tga"
+- "Assets/Texture/Common/wm_\u704C\u6728\u677E\u6811\u76C6\u666F01.tga"
+- Assets/Mat/Common/m_xfs.mat
 - Assets/Texture/Common/T_af52f1239e62c6138d8fa02342b60d5409ab1852.jpg
-- "Assets/Texture/Common/t_10\u697C_\u74F7\u7816\u767D1_d.tga"
 - "Assets/Texture/Common/wm_\u704C\u6728\u6D1B\u9633\u57CE\u5927\u704C09.tga"
 Dependencies: []

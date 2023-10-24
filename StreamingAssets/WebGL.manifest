@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3169443761
+CRC: 3051965230
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -23,5 +23,9 @@ AssetBundleManifest:
         Dependency_0: common
     Info_5:
       Name: onefloorscene
+      Dependencies:
+        Dependency_0: common
+    Info_6:
+      Name: eighteenfloorscene
       Dependencies:
         Dependency_0: common
