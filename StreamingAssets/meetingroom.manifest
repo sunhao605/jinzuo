@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4183531355
+CRC: 625016445
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3df1b0c6400ee370067ae0b5de668d27
+    Hash: 1ce9f8927619edeb560e447dfbb84162
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 47ae5df314293940fd9836ae706726a6
+    Hash: 023b3f7fb282fabb233599db85acee33
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,23 +27,57 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 558a8e2b6826cf840aae193990ba9f2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81180773991d8724ab7f2d216912b564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0c648cf1a11e045e6bf03627c88afedb, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
 - Class: 213
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 220
   Script: {instanceID: 0}
 - Class: 222
   Script: {instanceID: 0}
@@ -51,50 +85,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers:
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.FaceInfo_Legacy
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.FontAssetCreationSettings
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.KerningTable
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_Character
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_FontFeatureTable
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_FontWeightPair
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_GlyphAdjustmentRecord
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_GlyphValueRecord
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.VertexGradient
-- AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.PersistentCallGroup
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.FaceInfo
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.Glyph
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.GlyphMetrics
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.GlyphRect
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.AnimationTriggers
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.ColorBlock
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.Navigation
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.SpriteState
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefab/Scene/MeetingRoom.prefab
+- Assets/Scenes/MeetingRoom.unity
 Dependencies:
 - /Users/sunhao/Downloads/MetaWebGL/meta-client-webgl/AssetBundles/WebGL/common

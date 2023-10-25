@@ -24,7 +24,7 @@
     <div id="unity-fullscreen-button" style="display: none;"></div>
     <iframe id="ChatingWindow" title="Inline Frame Example" 
     style = " position : fixed; top : 0; left : 0; width : 80% ; height : 70vh; border : 0; display : none" 
-    src="http://oa-server-dev.eastmoney.com/meta-web/" allow="camera; microphone; display-capture; autoplay; clipboard-write"></iframe>
+    src="https://dd-rtc-dev.eastmoney.com/device-check?emitter=1" allow="camera; microphone; display-capture; autoplay; clipboard-write"></iframe>
     <script>
       const hideFullScreenButton = "";
       const buildUrl = "Build";
@@ -112,11 +112,11 @@
         chatingWindowDom.contentWindow.postMessage(message,'*');
       }
       function receiveMessage(message){
-        console.log("收到消息：",message);
-        myUnityInstance.SendMessage("Canvas","Handler",message);
+        console.log("收到消息：",message,message.type,message.payload.micDisabled);
+        // myUnityInstance.SendMessage("Canvas","Handler",message);
       }
       function SetAgoraParam(channel,userId,token,agoraId){
-        console.log("得到参数",chanel,userId,token,agoraId);
+        //console.log("得到参数",chanel,userId,token,agoraId);
         chatingWindowDom.src = "https://dd-rtc-dev.eastmoney.com/chat?channel="+channel+"&userId="+userId+"&token="+token+"&agoraId="+agoraId;
         toggleMetaWebIframe(true);
       }

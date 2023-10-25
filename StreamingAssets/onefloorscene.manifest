@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2911177115
+CRC: 996644776
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2887136467dd688c0887547eb88e14db
+    Hash: 4b9c9caf9020e511928f0423b5788687
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 07ebcc549694c4e1a3958abb1878693f
+    Hash: 7bfc919f3ed0414e6bfc57eb9d8afa21
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,20 +33,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
-- Class: 82
-  Script: {instanceID: 0}
-- Class: 84
-  Script: {instanceID: 0}
 - Class: 89
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 83b28ffa72519433c95a94058b9b947b, type: 3}
 - Class: 114
@@ -64,15 +56,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 32d539d7448de46c589159acf1395e7a, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: b8bebfa6d4b1245849053d9962c0c426, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7babf98ef92e1456f91ae6601e9931f8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e2cc481ff1ca24f7881e050834db9e74, type: 3}
+  Script: {fileID: 11500000, guid: b8bebfa6d4b1245849053d9962c0c426, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 157
@@ -83,15 +71,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 220
   Script: {instanceID: 0}
-- Class: 222
-  Script: {instanceID: 0}
-- Class: 223
-  Script: {instanceID: 0}
-- Class: 224
-  Script: {instanceID: 0}
 - Class: 258
-  Script: {instanceID: 0}
-- Class: 328
   Script: {instanceID: 0}
 - Class: 850595691
   Script: {instanceID: 0}
